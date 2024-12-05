@@ -1,0 +1,9 @@
+==13026== HEAP SUMMARY:
+==13026==     in use at exit: 0 bytes in 0 blocks
+==13026==   total heap usage: 2 allocs, 2 frees, 1,136 bytes allocated
+==13026== 
+==13026== All heap blocks were freed -- no leaks are possible
+==13026== 
+==13026== Use --track-origins=yes to see where uninitialised values come from
+==13026== For lists of detected and suppressed errors, rerun with: -s
+==13026== ERROR SUMMARY: 3186 errors from 2 contexts (suppressed: 0 from 0)
